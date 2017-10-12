@@ -16,6 +16,7 @@
 		8B7ECAB31F8FC4B8007BC472 /* RealmPlayground.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = RealmPlayground.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		8B7ECAB61F8FC4B8007BC472 /* RealmPlayground.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = RealmPlayground.h; sourceTree = "<group>"; };
 		8B7ECAB71F8FC4B8007BC472 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		8B7ECABE1F8FC80C007BC472 /* RealmSwift.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = RealmSwift.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		A4BCE77D2763A0CAE10F46C0 /* Pods-RealmPlayground.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-RealmPlayground.debug.xcconfig"; path = "Pods/Target Support Files/Pods-RealmPlayground/Pods-RealmPlayground.debug.xcconfig"; sourceTree = "<group>"; };
 		E8264F579DE4770358522612 /* Pods-RealmPlayground.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-RealmPlayground.release.xcconfig"; path = "Pods/Target Support Files/Pods-RealmPlayground/Pods-RealmPlayground.release.xcconfig"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
@@ -61,6 +62,7 @@
 		8B7ECAB51F8FC4B8007BC472 /* RealmPlayground */ = {
 			isa = PBXGroup;
 			children = (
+				8B7ECABE1F8FC80C007BC472 /* RealmSwift.playground */,
 				8B7ECAB61F8FC4B8007BC472 /* RealmPlayground.h */,
 				8B7ECAB71F8FC4B8007BC472 /* Info.plist */,
 			);
